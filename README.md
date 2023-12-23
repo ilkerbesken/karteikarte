@@ -1,0 +1,2 @@
+# karteikarte
+deutsch-türkisch karteikarte
