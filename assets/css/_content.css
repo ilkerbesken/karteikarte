@@ -1,0 +1,9 @@
+/* Style the tab content */
+.tabcontent {
+  position: relative;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  border: none;
+  height: 35rem;
+}
